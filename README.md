@@ -14,4 +14,4 @@ pip install pdfplumber gtts art
 
 :snake: Output :snake:
 
-!(result.jpg)
+![](result.jpg)
