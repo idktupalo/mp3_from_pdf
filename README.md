@@ -4,4 +4,7 @@
 ```
 pip install pdfplumber gtts art
 ```
-:paperclip: **Links** :paperclip:
+:mag_right: **Links** :mag_right:
+[pdfplumber](https://github.com/jsvine/pdfplumber)
+[gTTS](https://github.com/pndurette/gTTS)
+[art](https://github.com/sepandhaghighi/art)
