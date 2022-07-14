@@ -13,4 +13,4 @@ pip install pdfplumber gtts art
 3.  [art](https://github.com/sepandhaghighi/art)
 
 Result
-(result.jpeg)
+(/result.jpeg)
